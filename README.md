@@ -30,7 +30,7 @@ This is a simple **Pong Game** inspired by the classic arcade game. It’s a two
    ```
 2. Navigate to the project folder:
    ```bash
-   cd pong-game
+   cd pong-js-2018
    ```
 3. Open the game:
    - open `index.html` in your browser.
